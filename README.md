@@ -10,4 +10,5 @@ This will be an application where my main goal is a small application of activit
 
 
 <b>The challenge link with more details ⤵️</b>
+
 https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d#b3b973c1d9e74818af8935012f9e31b9
